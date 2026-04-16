@@ -41,7 +41,7 @@
 通过真实的 AI 提取案例，感受从照片到专业线稿的蜕变：
 
 ### 1. 人物线稿提取 (Character Portrait)
-精准捕捉人物轮廓与发丝细节，非常适合插画上色练习
+精准捕捉人物轮廓与发丝细节，非常适合插画上色练习  。 
 | 原始图片 | AI 提取结果 |
 | :--- | :--- |
 | ![人物原始图](https://img.sipingseo.com/file/line-art-extract/eCk2u01n.webp) | ![人物线稿图](https://img.sipingseo.com/file/line-art-extract/MoFbNslK.webp) |
