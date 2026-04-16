@@ -47,7 +47,7 @@
 | ![人物原始图](https://img.sipingseo.com/file/line-art-extract/eCk2u01n.webp) | ![人物线稿图](https://img.sipingseo.com/file/line-art-extract/MoFbNslK.webp) |
 
 ### 2. 建筑与结构 (Architecture)
-提取建筑的透视线条，净化乱杂背景，生成专业设计草图。
+提取建筑的透视线条，净化乱杂背景，生成专业设计草图
 | 原始图片 | AI 提取结果 |
 | :--- | :--- |
 | ![建筑原始图](https://img.sipingseo.com/file/line-art-extract/BoaNznXv.webp) | ![建筑线稿图](https://img.sipingseo.com/file/line-art-extract/js6U5Pvg.webp) |
