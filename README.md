@@ -53,7 +53,7 @@
 | ![建筑原始图](https://img.sipingseo.com/file/line-art-extract/BoaNznXv.webp) | ![建筑线稿图](https://img.sipingseo.com/file/line-art-extract/js6U5Pvg.webp) |
 
 ### 3. 工业产品线稿 (Product Design)
-去除金属反光，保留核心结构轮廓，适用于技术文档或工业设计底稿。
+去除金属反光，保留核心结构轮廓，适用于技术文档或工业设计底稿
 | 原始图片 | AI 提取结果 |
 | :--- | :--- |
 | ![产品原始图](https://img.sipingseo.com/file/line-art-extract/DffwaUkG.webp) | ![产品线稿图](https://img.sipingseo.com/file/line-art-extract/Fk3VoA5D.webp) |
