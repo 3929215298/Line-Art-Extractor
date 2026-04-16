@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/状态-完全免费-green?style=for-the-badge" alt="Status">
 </p>
 
-**HANYUAI 线稿助理** 是一款专业的免费在线线稿提取工具。基于先进的 AI 智能识别算法，能够精准提取图像轮廓，一键生成干净、高质感的线稿。无论是手绘风格、工程制图，还是动漫线稿，只需上传图片，AI 即可为您完成繁琐的描边工作
+**HANYUAI 线稿助理** 是一款专业的免费在线线稿提取工具。基于先进的 AI 智能识别算法，能够精准提取图像轮廓，一键生成干净、高质感的线稿。无论是手绘风格、工程制图，还是动漫线稿，只需上传图片，AI 即可为您完成繁琐的描边工作  。
 
 🔗 **官方访问地址：** [https://www.sipingseo.com/zh/line-art-extract](https://www.sipingseo.com/zh/line-art-extract)
 
